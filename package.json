@@ -1,0 +1,24 @@
+{
+  "name": "console-project-group-6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "console": "node ./src/ConsoleApp.js",
+    "main": "node ./src/ConsoleMenu/MainMenu.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukeParkerTAFE/console-project-group-6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LukeParkerTAFE/console-project-group-6/issues"
+  },
+  "homepage": "https://github.com/LukeParkerTAFE/console-project-group-6#readme",
+  "dependencies": {
+    "uuid": "^8.1.0"
+  }
+}
